@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Project/mlflow/mlruns/0/cb1396bbaa084deba97ca90888c72f36/artifacts
+end_time: 1701718030044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1396bbaa084deba97ca90888c72f36
+run_name: intelligent-shad-838
+run_uuid: cb1396bbaa084deba97ca90888c72f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701718028227
+status: 3
+tags: []
+user_id: princ

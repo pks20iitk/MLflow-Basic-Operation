@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Project/mlflow/mlruns/0/59e75525daeb4c4fa78609b3fef4e31c/artifacts
+end_time: 1701717437855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59e75525daeb4c4fa78609b3fef4e31c
+run_name: intrigued-worm-704
+run_uuid: 59e75525daeb4c4fa78609b3fef4e31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701717435150
+status: 3
+tags: []
+user_id: princ
